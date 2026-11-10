@@ -33,7 +33,7 @@ requirements:
     - cpp-argparse
     - nlohmann_json
     - nlohmann_json-abi
-    - cppinterop
+    - cppinterop <2
     - libcurl
   run:
     # Even though nlohmann_json is header-only,
